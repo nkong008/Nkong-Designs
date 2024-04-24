@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="611" viewBox="0 0 393 611">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.885" x2="0.5" y2="0.022" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aeb486"/>
+      <stop offset="1" stop-color="#749a94"/>
+    </linearGradient>
+    <clipPath id="clip-iPhone_14_Pro_1">
+      <rect width="393" height="611"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_1" data-name="iPhone 14 Pro – 1" clip-path="url(#clip-iPhone_14_Pro_1)">
+    <rect width="393" height="611" fill="#fff"/>
+    <path id="Path_602" data-name="Path 602" d="M0,0H390V621.693H0Z" transform="translate(1.5 -10)" fill="url(#linear-gradient)"/>
+    <g id="Group_12" data-name="Group 12" transform="translate(7.5 -1819)">
+      <rect id="Rectangle_121" data-name="Rectangle 121" width="56" height="55" rx="19" transform="translate(55 1987)" fill="#fff"/>
+      <text id="Lr" transform="translate(82 2025)" fill="#749a94" font-size="35" font-family="CarmillaRegular, Carmilla"><tspan x="-17.15" y="0">Lr</tspan></text>
+      <rect id="Rectangle_122" data-name="Rectangle 122" width="56" height="55" rx="19" transform="translate(55 2069)" fill="#fff"/>
+      <text id="Xd" transform="translate(83 2108)" fill="#749a94" font-size="36" font-family="CarmillaRegular, Carmilla"><tspan x="-19.206" y="0">Xd</tspan></text>
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="57" height="55" rx="19" transform="translate(54 2147)" fill="#fff"/>
+      <text id="Ps" transform="translate(82 2185)" fill="#749a94" font-size="35" font-family="CarmillaRegular, Carmilla"><tspan x="-18.06" y="0">Ps</tspan></text>
+      <rect id="Rectangle_124" data-name="Rectangle 124" width="57" height="54" rx="19" transform="translate(56 2225)" fill="#fff"/>
+      <text id="Ai" transform="translate(85 2264)" fill="#749a94" font-size="36" font-family="CarmillaRegular, Carmilla"><tspan x="-14.094" y="0">Ai</tspan></text>
+      <text id="Adobe_Lightroom_Classic_" data-name="Adobe 
+Lightroom 
+Classic " transform="translate(120 2004)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe </tspan><tspan x="0" y="15">Lightroom </tspan><tspan x="0" y="30">Classic </tspan></text>
+      <text id="Adobe_XD_" data-name="Adobe XD " transform="translate(122 2100)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe XD </tspan></text>
+      <text id="Adobe_Photoshop_" data-name="Adobe 
+Photoshop " transform="translate(122 2172)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe </tspan><tspan x="0" y="15">Photoshop </tspan></text>
+      <text id="Adobe_Illustrator_" data-name="Adobe
+Illustrator " transform="translate(123 2250)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe</tspan><tspan x="0" y="15">Illustrator </tspan></text>
+      <rect id="Rectangle_126" data-name="Rectangle 126" width="56" height="55" rx="19" transform="translate(207 2068)" fill="#fff"/>
+      <path id="Icon_simple-visualstudiocode" data-name="Icon simple-visualstudiocode" d="M28.259,3.175l-6.03-2.9a1.824,1.824,0,0,0-2.081.354L8.6,11.162,3.571,7.344a1.219,1.219,0,0,0-1.558.07L.4,8.881a1.221,1.221,0,0,0,0,1.805l4.362,3.98L.4,18.645a1.221,1.221,0,0,0,0,1.805l1.615,1.466a1.219,1.219,0,0,0,1.558.07L8.6,18.168,20.149,28.7a1.821,1.821,0,0,0,2.08.354l6.033-2.9A1.831,1.831,0,0,0,29.3,24.5V4.826a1.831,1.831,0,0,0-1.038-1.65ZM21.978,21.316l-8.762-6.65,8.762-6.65v13.3Z" transform="translate(221.019 2080.95)" fill="#749a94"/>
+      <text id="Visual_Studio_Code" data-name="Visual 
+Studio 
+Code" transform="translate(279 2088)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Visual </tspan><tspan x="0" y="15">Studio </tspan><tspan x="0" y="30">Code</tspan></text>
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="56" height="55" rx="19" transform="translate(207 1987)" fill="#fff"/>
+      <path id="Icon_awesome-github" data-name="Icon awesome-github" d="M9.047,21.8c0,.109-.125.2-.284.2-.18.016-.305-.071-.305-.2,0-.109.125-.2.284-.2C8.905,21.585,9.047,21.672,9.047,21.8Zm-1.7-.245c-.038.109.071.234.234.267a.256.256,0,0,0,.338-.109c.033-.109-.071-.234-.234-.284A.28.28,0,0,0,7.351,21.552Zm2.41-.093c-.158.038-.267.142-.251.267.016.109.158.18.322.142s.267-.142.251-.251S9.92,21.443,9.761,21.46ZM13.35.562A13.077,13.077,0,0,0,0,13.869,13.672,13.672,0,0,0,9.243,26.913c.7.125.943-.305.943-.66,0-.338-.016-2.2-.016-3.348,0,0-3.817.818-4.619-1.625,0,0-.622-1.587-1.516-2,0,0-1.249-.856.087-.84a2.879,2.879,0,0,1,2.1,1.407,2.883,2.883,0,0,0,3.975,1.14,3.031,3.031,0,0,1,.873-1.838c-3.048-.338-6.124-.78-6.124-6.026A4.133,4.133,0,0,1,6.239,9.915a5.152,5.152,0,0,1,.142-3.7c1.14-.354,3.763,1.472,3.763,1.472a12.883,12.883,0,0,1,6.849,0s2.623-1.832,3.763-1.472a5.15,5.15,0,0,1,.142,3.7A4.239,4.239,0,0,1,22.3,13.127c0,5.262-3.212,5.682-6.26,6.026a3.225,3.225,0,0,1,.927,2.53c0,1.838-.016,4.112-.016,4.559,0,.354.251.785.943.66a13.546,13.546,0,0,0,9.151-13.033A13.371,13.371,0,0,0,13.35.562ZM5.3,19.371c-.071.055-.055.18.038.284.087.087.213.125.284.055.071-.055.055-.18-.038-.284C5.5,19.338,5.372,19.3,5.3,19.371Zm-.589-.442c-.038.071.016.158.125.213a.162.162,0,0,0,.234-.038c.038-.071-.016-.158-.125-.213C4.837,18.858,4.75,18.875,4.712,18.929Zm1.767,1.941c-.087.071-.055.234.071.338.125.125.284.142.354.055.071-.071.038-.234-.071-.338C6.713,20.8,6.549,20.783,6.479,20.871Zm-.622-.8c-.087.055-.087.2,0,.322s.234.18.305.125a.249.249,0,0,0,0-.338C6.086,20.053,5.944,20,5.857,20.069Z" transform="translate(222.206 2000.867)" fill="#749a94"/>
+      <text id="GitHub" transform="translate(274 2018)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">GitHub</tspan></text>
+      <rect id="Rectangle_128" data-name="Rectangle 128" width="56" height="54" rx="19" transform="translate(207 2148)" fill="#fff"/>
+      <path id="Icon_awesome-html5" data-name="Icon awesome-html5" d="M0,2.25,1.9,24.185l8.5,2.893,8.558-2.893,1.9-21.935ZM16.736,9.338H6.755l.223,2.738h9.535L15.775,20.3l-5.316,1.5v.017H10.4L5.039,20.3l-.326-4.2H7.3l.19,2.112,2.905.8,2.916-.8.326-3.447H4.578l-.7-8.069H16.975Z" transform="translate(225.348 2160.147)" fill="#749a94"/>
+      <text id="HTML" transform="translate(279 2175)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">HTML</tspan></text>
+      <rect id="Rectangle_129" data-name="Rectangle 129" width="56" height="54" rx="19" transform="translate(56 2308)" fill="#fff"/>
+      <path id="Icon_awesome-css3" data-name="Icon awesome-css3" d="M20.852,2.25l-2.78,15.987-9.7,3.475L0,18.237l.851-4.118H4.414l-.348,1.764,5.057,1.929,5.826-1.929.817-4.218H1.282l.7-3.562h14.5l.456-2.289H2.446L3.154,2.25h17.7Z" transform="translate(71.738 2323.393)" fill="#749a94"/>
+      <text id="CSS_SCSS" data-name="CSS/SCSS" transform="translate(127 2334)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">CSS/SCSS</tspan></text>
+      <rect id="Rectangle_130" data-name="Rectangle 130" width="56" height="55" rx="19" transform="translate(208 2225)" fill="#fff"/>
+      <text id="JavaScript" transform="translate(276 2262)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">JavaScript</tspan></text>
+      <path id="Path_600" data-name="Path 600" d="M-16.329,2.813h-3.828V12.98c0,2.516-.863,3.218-2.364,3.218a5.72,5.72,0,0,1-1.83-.29l-.4,2.977a9.076,9.076,0,0,0,2.627.387c3.447,0,5.794-1.621,5.794-6.267V2.813Z" transform="translate(250.3 2242.149)" fill="#749a94"/>
+      <path id="Path_601" data-name="Path 601" d="M-2.949,2.25C-6.654,2.25-9,4.355-9,7.138c0,2.4,1.806,3.9,4.433,4.865,1.9.677,2.65,1.283,2.65,2.275,0,1.089-.868,1.791-2.51,1.791a8.3,8.3,0,0,1-3.847-1.017h0L-9,18.075a9.489,9.489,0,0,0,4.362,1.017c4.339,0,6.356-2.323,6.356-5.058,0-2.323-1.29-3.823-4.08-4.888-2.064-.823-2.932-1.282-2.932-2.323,0-.823.751-1.573,2.3-1.573a6.62,6.62,0,0,1,3.182.827L1.1,3.016A9.857,9.857,0,0,0-2.949,2.25Z" transform="translate(244.732 2242.329)" fill="#749a94"/>
+    </g>
+  </g>
+</svg>

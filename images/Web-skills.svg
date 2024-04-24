@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.885" x2="0.5" y2="0.022" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aeb486"/>
+      <stop offset="1" stop-color="#749a94"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_14" data-name="Group 14">
+      <g id="PORTFOLIO_LANDING" data-name="PORTFOLIO LANDING" transform="translate(-1 4)">
+        <rect id="Rectangle_125" data-name="Rectangle 125" width="1920" height="1076" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(368 497.897)">
+        <rect id="Rectangle_121" data-name="Rectangle 121" width="118" height="115" rx="19" transform="translate(0 0.103)" fill="#fff"/>
+        <text id="Lr" transform="translate(59 82.104)" fill="#749a94" font-size="75" font-family="CarmillaRegular, Carmilla"><tspan x="-36.75" y="0">Lr</tspan></text>
+        <rect id="Rectangle_122" data-name="Rectangle 122" width="118" height="115" rx="19" transform="translate(0 142.103)" fill="#fff"/>
+        <text id="Xd" transform="translate(59 224.104)" fill="#749a94" font-size="75" font-family="CarmillaRegular, Carmilla"><tspan x="-40.013" y="0">Xd</tspan></text>
+        <rect id="Rectangle_123" data-name="Rectangle 123" width="118" height="115" rx="19" transform="translate(515 0.103)" fill="#fff"/>
+        <text id="Ps" transform="translate(574 82.104)" fill="#749a94" font-size="75" font-family="CarmillaRegular, Carmilla"><tspan x="-38.7" y="0">Ps</tspan></text>
+        <rect id="Rectangle_124" data-name="Rectangle 124" width="118" height="115" rx="19" transform="translate(515 142.103)" fill="#fff"/>
+        <text id="Ai" transform="translate(574 224.104)" fill="#749a94" font-size="75" font-family="CarmillaRegular, Carmilla"><tspan x="-29.363" y="0">Ai</tspan></text>
+        <text id="Adobe_Lightroom_Classic_" data-name="Adobe Lightroom Classic " transform="translate(166 64.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe Lightroom Classic </tspan></text>
+        <text id="Adobe_XD_" data-name="Adobe XD " transform="translate(166 206.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe XD </tspan></text>
+        <text id="Adobe_Photoshop_" data-name="Adobe Photoshop " transform="translate(683 64.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe Photoshop </tspan></text>
+        <text id="Adobe_Illustrator_" data-name="Adobe Illustrator " transform="translate(683 206.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Adobe Illustrator </tspan></text>
+        <rect id="Rectangle_126" data-name="Rectangle 126" width="118" height="115" rx="19" transform="translate(0 284.103)" fill="#fff"/>
+        <path id="Icon_simple-visualstudiocode" data-name="Icon simple-visualstudiocode" d="M59.418,6.574,46.739.473a3.835,3.835,0,0,0-4.376.744l-24.28,22.15L7.508,15.339a2.564,2.564,0,0,0-3.275.146L.84,18.57a2.567,2.567,0,0,0,0,3.8l9.171,8.367L.837,39.1a2.567,2.567,0,0,0,0,3.8l3.4,3.083a2.564,2.564,0,0,0,3.275.146L18.085,38.1l24.28,22.15a3.829,3.829,0,0,0,4.374.744l12.684-6.1a3.85,3.85,0,0,0,2.177-3.47V10.044a3.85,3.85,0,0,0-2.182-3.47ZM46.21,44.717,27.787,30.733,46.21,16.75V44.717Z" transform="translate(28.201 310.768)" fill="#749a94"/>
+        <text id="Visual_Studio_Code" data-name="Visual Studio Code" transform="translate(166 348.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Visual Studio Code</tspan></text>
+        <rect id="Rectangle_127" data-name="Rectangle 127" width="118" height="115" rx="19" transform="translate(515 284.103)" fill="#fff"/>
+        <path id="Icon_awesome-github" data-name="Icon awesome-github" d="M19.022,45.211c0,.229-.264.413-.6.413-.378.034-.642-.149-.642-.413,0-.229.264-.413.6-.413C18.724,44.764,19.022,44.947,19.022,45.211Zm-3.566-.516c-.08.229.149.493.493.562a.538.538,0,0,0,.711-.229c.069-.229-.149-.493-.493-.6A.589.589,0,0,0,15.456,44.695Zm5.068-.195c-.333.08-.562.3-.527.562.034.229.333.378.676.3s.562-.3.527-.527S20.857,44.466,20.524,44.5ZM28.069.563C12.165.563,0,12.636,0,28.539A28.746,28.746,0,0,0,19.435,55.966c1.468.264,1.984-.642,1.984-1.387,0-.711-.034-4.632-.034-7.04,0,0-8.026,1.72-9.712-3.417,0,0-1.307-3.337-3.188-4.2,0,0-2.626-1.8.183-1.766a6.052,6.052,0,0,1,4.426,2.958c2.511,4.426,6.719,3.153,8.359,2.4a6.373,6.373,0,0,1,1.835-3.864c-6.409-.711-12.876-1.64-12.876-12.67a8.69,8.69,0,0,1,2.706-6.753,10.833,10.833,0,0,1,.3-7.785c2.4-.745,7.912,3.1,7.912,3.1a27.087,27.087,0,0,1,14.4,0s5.515-3.853,7.912-3.1a10.828,10.828,0,0,1,.3,7.785c1.835,2.029,2.958,3.612,2.958,6.753,0,11.065-6.753,11.948-13.163,12.67,1.055.906,1.949,2.626,1.949,5.32,0,3.864-.034,8.645-.034,9.586,0,.745.527,1.651,1.984,1.387,11.466-3.807,19.24-14.688,19.24-27.4C56.871,12.636,43.972.563,28.069.563ZM11.145,40.109c-.149.115-.115.378.08.6.183.183.447.264.6.115.149-.115.115-.378-.08-.6C11.558,40.04,11.294,39.96,11.145,40.109ZM9.907,39.18c-.08.149.034.333.264.447a.341.341,0,0,0,.493-.08c.08-.149-.034-.333-.264-.447C10.17,39.031,9.987,39.065,9.907,39.18Zm3.715,4.082c-.183.149-.115.493.149.711.264.264.6.3.745.115.149-.149.08-.493-.149-.711C14.115,43.113,13.771,43.078,13.622,43.262Zm-1.307-1.685c-.183.115-.183.413,0,.676s.493.378.642.264a.523.523,0,0,0,0-.711C12.8,41.542,12.5,41.427,12.314,41.576Z" transform="translate(545.565 313.212)" fill="#749a94"/>
+        <text id="GitHub" transform="translate(679 348.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">GitHub</tspan></text>
+        <rect id="Rectangle_128" data-name="Rectangle 128" width="118" height="115" rx="19" transform="translate(930 0.103)" fill="#fff"/>
+        <path id="Icon_awesome-html5" data-name="Icon awesome-html5" d="M0,2.25,3.985,48.371l17.88,6.083,17.994-6.083L43.843,2.25Zm35.188,14.9H14.2l.468,5.756H34.72L33.168,40.2,21.99,43.348v.035h-.126L10.6,40.2,9.91,31.37h5.446l.4,4.44,6.108,1.69L28,35.809l.685-7.248H9.625L8.163,11.6H35.691Z" transform="translate(967.079 29.148)" fill="#749a94"/>
+        <text id="HTML" transform="translate(1081 64.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">HTML</tspan></text>
+        <rect id="Rectangle_129" data-name="Rectangle 129" width="118" height="115" rx="19" transform="translate(930 142.103)" fill="#fff"/>
+        <path id="Icon_awesome-css3" data-name="Icon awesome-css3" d="M43.843,2.25,38,35.863,17.6,43.17,0,35.863,1.79,27.2H9.28l-.731,3.708,10.632,4.055L31.43,30.912l1.717-8.869H2.695l1.461-7.49h30.48l.959-4.814H5.142L6.631,2.25H43.843Z" transform="translate(967.078 177.968)" fill="#749a94"/>
+        <text id="CSS_SCSS" data-name="CSS/SCSS" transform="translate(1081 207.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">CSS/SCSS</tspan></text>
+        <rect id="Rectangle_130" data-name="Rectangle 130" width="118" height="115" rx="19" transform="translate(930 284.103)" fill="#fff"/>
+        <text id="JavaScript" transform="translate(1081 348.104)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">JavaScript</tspan></text>
+        <g id="Icon_ionic-logo-javascript" data-name="Icon ionic-logo-javascript" transform="translate(966.464 323.793)">
+          <path id="Path_600" data-name="Path 600" d="M-7.043,2.813h-8.048V24.191c0,5.29-1.814,6.767-4.971,6.767a12.026,12.026,0,0,1-3.848-.61l-.839,6.258a19.082,19.082,0,0,0,5.524.815c7.248,0,12.183-3.408,12.183-13.177V2.813Z" transform="translate(24.75 -2.008)" fill="#749a94"/>
+          <path id="Path_601" data-name="Path 601" d="M3.723,2.25C-4.068,2.25-9,6.676-9,12.527c0,5.039,3.8,8.193,9.32,10.228,3.994,1.424,5.573,2.7,5.573,4.783,0,2.289-1.825,3.765-5.277,3.765a17.45,17.45,0,0,1-8.088-2.138v0L-9,35.523A19.951,19.951,0,0,0,.172,37.661c9.124,0,13.364-4.885,13.364-10.634,0-4.884-2.712-8.038-8.579-10.278-4.34-1.73-6.164-2.7-6.164-4.884,0-1.73,1.578-3.307,4.833-3.307a13.919,13.919,0,0,1,6.691,1.74L12.24,3.86A20.725,20.725,0,0,0,3.723,2.25Z" transform="translate(31.536 -2.25)" fill="#749a94"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
