@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: "Carmilla";
-  src: url("font/Carmilla.ttf") format("truetype");
+  src: url("../font/Carmilla.ttf") format("truetype");
 }
 #container section#header nav {
   width: 100%;
@@ -2638,7 +2638,7 @@ div#container div.venado-contracting-website img.venado-2 {
   div#container div.web-intro h1.web-page-h1 {
     animation: fadeInAnimation 3s ease forwards;
     z-index: 6;
-    margin-top: -140%;
+    margin-top: -157%;
     font-family: "Carmilla";
     text-align: center;
     font-size: 5em;

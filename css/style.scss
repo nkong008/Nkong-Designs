@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Carmilla';
-  src: url('font/Carmilla.ttf') format('truetype');
+  src: url('../font/Carmilla.ttf') format('truetype');
 }
 
 $Blue1: #749A94;
@@ -4263,7 +4263,7 @@ div#container {
         animation: fadeInAnimation 3s ease forwards;
         z-index: 6;
         // opacity: 100%;
-        margin-top: -140%;
+        margin-top: -157%;
         font-family: $Carmilla;
         text-align: center;
         font-size: 5em;
