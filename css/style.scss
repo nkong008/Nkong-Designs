@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Carmilla';
-  src: url('../font/Carmilla.ttf') format('truetype');
+  src: url('font/Carmilla.ttf') format('truetype');
 }
 
 $Blue1: #749A94;
@@ -46,6 +46,7 @@ $mobile-h1-size: 3.25em;
         margin-top: 2em;
         height: 100px;
         width: 100px;
+        font-family: $Montserrat;
       }
 
       #menu {
