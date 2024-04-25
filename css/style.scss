@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Carmilla';
-  src: url('font/Carmilla.ttf') format('truetype');
+  src: url('../font/Carmilla.ttf') format('truetype');
 }
 
 $Blue1: #749A94;
@@ -4237,8 +4237,208 @@ div#container {
 // END OF TABLET////////
 
 @media screen and (min-width: 1021px) {
+
+
   div#container {
 
-  }}
+    // width: 100vw;
+    // height: 100%;
+    div.web-intro {
+      // width: 100vw;
+      // height: auto;
+      // background-image: url("../images/green-bg.png");
+
+      img {
+        // animation: fadeInAnimation 3s ease forwards;
+        margin-top: 4em;
+        width: 100%;
+        height: auto;
+        background-size: cover;
+        // opacity: 90%;
+        z-index: 4;
+      }
+
+      h1.web-page-h1 {
+        animation: fadeInAnimation 3s ease forwards;
+        z-index: 6;
+        // opacity: 100%;
+        margin-top: -140%;
+        font-family: $Carmilla;
+        text-align: center;
+        font-size: 5em;
+        font-weight: $Weight-200;
+        line-height: 1em;
+      }
+
+      p {
+        animation: fadeInAnimation 4s ease forwards;
+        margin-top: 3em;
+        padding: 3em 13em;
+        font-family: $Montserrat;
+        line-height: 1.5em;
+        text-align: center;
+      }
+
+    }
+
+    div.bank-mobile {
+      text-align: center;
+
+      h1.bank-h1 {
+        padding-top: 4em;
+        // font-size: $mobile-h1-size;
+        font-size: 3em;
+        text-align: center;
+        font-family: $Carmilla;
+        font-weight: $Weight-200;
+        color: $Blue1;
+        // font-size: $mobile-h1-size;
+      }
+
+      img.numbers {
+
+        width: 90%;
+        height: auto;
+      }
+
+      p {
+        text-align: center;
+        padding: 0 3em;
+        font-family: $Montserrat;
+        line-height: 1.5em;
+        padding-bottom: 2em;
+
+      }
+
+      a.bank-link {
+        font-family: $Montserrat;
+        // margin-top: 2em;
+        text-align: center;
+        color: $Blue1;
+        // margin-bottom: 3em;
+        transition: all 200ms linear;
+      }
+
+      a.bank-link:hover {
+        color: $Black;
+      }
+
+      img {
+        // padding-top: 1em;
+        width: 80%;
+        height: auto;
+        border-radius: 20%;
+        padding: 2em 0;
+
+      }
+
+
+    }
+
+    div.prism-website {
+      text-align: center;
+
+      // position: relative;
+      h1.prism-h1 {
+        // align-items: center;
+        padding-top: 1.5em;
+        font-size: 3em;
+        text-align: center;
+        font-family: $Carmilla;
+        font-weight: $Weight-200;
+        color: $Blue1;
+      }
+
+      img.numbers {
+        width: 90%;
+        height: auto;
+      }
+
+      p {
+        text-align: center;
+        padding: 0 3em;
+        font-family: $Montserrat;
+        line-height: 1.5em;
+        padding-bottom: 2em;
+      }
+
+      a.prism-link {
+        font-family: $Montserrat;
+        text-align: center;
+        color: $Blue1;
+        transition: all 200ms linear;
+
+      }
+
+      a.prism-link:hover {
+        color: $Black;
+      }
+
+      img {
+
+        width: 90%;
+        height: auto;
+        padding: 1em;
+      }
+
+      img.mobile-prism {
+        margin-top: 2em;
+      }
+    }
+
+    div.venado-contracting-website {
+      text-align: center;
+
+      h1.venado-h1 {
+        padding-top: 1.5em;
+        font-size: 3em;
+        text-align: center;
+        font-family: $Carmilla;
+        font-weight: $Weight-200;
+        color: $Blue1;
+      }
+
+      img.numbers {
+        width: 90%;
+        height: auto;
+      }
+
+      p {
+        text-align: center;
+        padding: 0 3em;
+        font-family: $Montserrat;
+        line-height: 1.5em;
+        padding-bottom: 2em;
+      }
+
+      a.venado-link {
+        font-family: $Montserrat;
+        text-align: center;
+        color: $Blue1;
+        transition: all 200ms linear;
+      }
+
+      a.venado-link:hover {
+        color: $Black;
+      }
+
+      img {
+        width: 90%;
+        height: auto;
+        padding: 1em;
+      }
+
+      img.venado-1 {
+        margin-top: 2em;
+      }
+
+      img.venado-2 {
+        margin-bottom: 1em;
+      }
+
+
+    }
+  }
+}
 
 // //  END OF WEB PROJECTS ///////////////////////////////////////////
