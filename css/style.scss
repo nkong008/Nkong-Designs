@@ -4252,9 +4252,11 @@ div#container {
       img {
         // animation: fadeInAnimation 3s ease forwards;
         margin-top: 4em;
-        width: 100%;
-        height: auto;
-        background-size: cover;
+        width: 100vw;
+        // height: 150vh;
+        // height: auto;
+        height: 1000px;
+        // background-size: cover;
         // opacity: 90%;
         z-index: 4;
       }
@@ -4263,7 +4265,7 @@ div#container {
         animation: fadeInAnimation 3s ease forwards;
         z-index: 6;
         // opacity: 100%;
-        margin-top: -157%;
+        margin-top: -75%;
         font-family: $Carmilla;
         text-align: center;
         font-size: 5em;
@@ -4283,13 +4285,14 @@ div#container {
     }
 
     div.bank-mobile {
-      text-align: center;
+      // text-align: center;
 
       h1.bank-h1 {
         padding-top: 4em;
         // font-size: $mobile-h1-size;
         font-size: 3em;
-        text-align: center;
+        text-align: start;
+        padding-left: 2em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -4297,24 +4300,37 @@ div#container {
       }
 
       img.numbers {
-
-        width: 90%;
+        // margin-left: 4em;
+        // align-items: end;
+        // align-content: end;
+        // justify-content: end;
+        // position: absolute;
+        margin-top: -37%;
+        margin-left: 23em;
+        width: 80%;
         height: auto;
+        overflow: hidden;
       }
 
       p {
-        text-align: center;
-        padding: 0 3em;
+        // text-align: center;
+        text-align: start;
+        padding-right: 28em;
         font-family: $Montserrat;
         line-height: 1.5em;
         padding-bottom: 2em;
+        margin-top: -40%;
+        padding-left: 6em;
 
       }
 
       a.bank-link {
+        position: absolute;
+        margin-top: 2%;
         font-family: $Montserrat;
         // margin-top: 2em;
         text-align: center;
+        margin-left: 1em;
         color: $Blue1;
         // margin-bottom: 3em;
         transition: all 200ms linear;
@@ -4325,11 +4341,12 @@ div#container {
       }
 
       img {
-        // padding-top: 1em;
-        width: 80%;
+        // padding-top: 3em;
+        width: 28%;
         height: auto;
         border-radius: 20%;
-        padding: 2em 0;
+        margin-top: 1em;
+        padding: 2em 0em;
 
       }
 

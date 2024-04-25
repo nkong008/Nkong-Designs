@@ -2630,15 +2630,14 @@ div#container div.venado-contracting-website img.venado-2 {
 @media screen and (min-width: 1021px) {
   div#container div.web-intro img {
     margin-top: 4em;
-    width: 100%;
-    height: auto;
-    background-size: cover;
+    width: 100vw;
+    height: 1000px;
     z-index: 4;
   }
   div#container div.web-intro h1.web-page-h1 {
     animation: fadeInAnimation 3s ease forwards;
     z-index: 6;
-    margin-top: -157%;
+    margin-top: -75%;
     font-family: "Carmilla";
     text-align: center;
     font-size: 5em;
@@ -2653,31 +2652,37 @@ div#container div.venado-contracting-website img.venado-2 {
     line-height: 1.5em;
     text-align: center;
   }
-  div#container div.bank-mobile {
-    text-align: center;
-  }
   div#container div.bank-mobile h1.bank-h1 {
     padding-top: 4em;
     font-size: 3em;
-    text-align: center;
+    text-align: start;
+    padding-left: 2em;
     font-family: "Carmilla";
     font-weight: 200;
     color: #749A94;
   }
   div#container div.bank-mobile img.numbers {
-    width: 90%;
+    margin-top: -37%;
+    margin-left: 23em;
+    width: 80%;
     height: auto;
+    overflow: hidden;
   }
   div#container div.bank-mobile p {
-    text-align: center;
-    padding: 0 3em;
+    text-align: start;
+    padding-right: 28em;
     font-family: "Montserrat", sans-serif;
     line-height: 1.5em;
     padding-bottom: 2em;
+    margin-top: -40%;
+    padding-left: 6em;
   }
   div#container div.bank-mobile a.bank-link {
+    position: absolute;
+    margin-top: 2%;
     font-family: "Montserrat", sans-serif;
     text-align: center;
+    margin-left: 1em;
     color: #749A94;
     transition: all 200ms linear;
   }
@@ -2685,10 +2690,11 @@ div#container div.venado-contracting-website img.venado-2 {
     color: #000000;
   }
   div#container div.bank-mobile img {
-    width: 80%;
+    width: 28%;
     height: auto;
     border-radius: 20%;
-    padding: 2em 0;
+    margin-top: 1em;
+    padding: 2em 0em;
   }
   div#container div.prism-website {
     text-align: center;
