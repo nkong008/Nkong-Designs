@@ -3748,13 +3748,13 @@ div#container div.bank-mobile img {
   width: 80%;
   height: auto;
   border-radius: 20%;
-  padding: 0em 0;
+  padding: 1em 0;
 }
 div#container div.prism-website {
   text-align: center;
 }
 div#container div.prism-website h1.prism-h1 {
-  padding-top: 1.5em;
+  padding: 0.5em;
   font-size: 3em;
   text-align: center;
   font-family: "Carmilla";
