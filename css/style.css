@@ -3831,6 +3831,9 @@ div#container div.venado-contracting-website img.venado-1 {
 div#container div.venado-contracting-website img.venado-2 {
   margin-bottom: 1em;
 }
+div#container div.venado-contracting-website img.axure-img {
+  padding-top: 3em;
+}
 
 @media screen and (min-width: 437px) {
   #container div.ui-ux-intro h1.uiux-h1 {
