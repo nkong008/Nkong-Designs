@@ -5977,7 +5977,7 @@ div#container {
 // END OF MOBILE MEDIA QUERY///////////
 
 // START OF TEBLET//
-@media screen and (min-width: 438px) {
+@media screen and (min-width: 437px) {
   #container {
     div.ui-ux-intro {
       h1.uiux-h1 {
@@ -5987,6 +5987,12 @@ div#container {
 
     div.bank-mobile {
       padding-top: 4em;
+    }
+
+    .furge {
+      h1.furge-h1 {
+        padding-top: 9em;
+      }
     }
   }
 }
@@ -6001,6 +6007,13 @@ div#container {
 
     div.bank-mobile {
       padding-top: 13em;
+    }
+
+
+    .furge {
+      h1.furge-h1 {
+        padding-top: 8em;
+      }
     }
   }
 }
