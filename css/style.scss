@@ -7434,7 +7434,8 @@ div#container {
       // text-align: center;
 
       h1.bank-h1 {
-        padding-top: 4em;
+
+        padding-top: 5em;
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
@@ -7489,6 +7490,16 @@ div#container {
         border-radius: 20%;
         margin-top: 2em;
         padding: 2em 0em;
+
+      }
+      img.furge-imgs {
+        // padding-top: 3em;
+        width: 29%;
+        height: auto;
+        border-radius: 20%;
+        margin-top: 2em;
+        padding: 2em 0em;
+        padding-right: 1em;
 
       }
 
@@ -7610,6 +7621,14 @@ div#container {
         padding: 1em;
         // margin-top: 6em;
         padding-top: 1em;
+      }
+
+      img.axure-img {
+        width: 29%;
+        height: auto;
+        padding: 1em;
+        // margin-top: 6em;
+        padding-top: 6em;
       }
 
       img.venado-1 {
@@ -8621,7 +8640,7 @@ div#container {
         animation: fadeInAnimation 3s ease forwards;
         z-index: 6;
         // opacity: 100%;
-        margin-top: -43%;
+        margin-top: -40%;
         font-family: $Carmilla;
         text-align: center;
         font-size: 5em;

@@ -4784,7 +4784,7 @@ div#container div.venado-contracting-website img.venado-2 {
     text-align: center;
   }
   div#container div.bank-mobile h1.bank-h1 {
-    padding-top: 4em;
+    padding-top: 5em;
     font-size: 3em;
     text-align: start;
     padding-left: 2em;
@@ -4826,6 +4826,14 @@ div#container div.venado-contracting-website img.venado-2 {
     border-radius: 20%;
     margin-top: 2em;
     padding: 2em 0em;
+  }
+  div#container div.bank-mobile img.furge-imgs {
+    width: 29%;
+    height: auto;
+    border-radius: 20%;
+    margin-top: 2em;
+    padding: 2em 0em;
+    padding-right: 1em;
   }
   div#container div.prism-website h1.prism-h1 {
     padding-top: 4em;
@@ -4918,6 +4926,12 @@ div#container div.venado-contracting-website img.venado-2 {
     height: auto;
     padding: 1em;
     padding-top: 1em;
+  }
+  div#container div.venado-contracting-website img.axure-img {
+    width: 29%;
+    height: auto;
+    padding: 1em;
+    padding-top: 6em;
   }
   div#container div.venado-contracting-website img.venado-1 {
     margin-top: 6em;
@@ -5608,7 +5622,7 @@ div#container div.venado-contracting-website img.venado-2 {
   div#container div.ui-ux-intro h1.uiux-h1 {
     animation: fadeInAnimation 3s ease forwards;
     z-index: 6;
-    margin-top: -43%;
+    margin-top: -40%;
     font-family: "Carmilla";
     text-align: center;
     font-size: 5em;
