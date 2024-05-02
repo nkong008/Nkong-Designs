@@ -7,11 +7,13 @@
 // START OF BIO STAR PATTERN
 .pattern-design {
   display: grid;
+
 }
+
 #star-pattern {
   position: relative;
   // top: -1em;
-  width:80%;
+  width: 80%;
   height: 100px;
   margin: auto;
 }
@@ -21,15 +23,16 @@
   img.nancy {
     margin-left: 1.5em;
   }
+
   #star-pattern {
     animation: fadeInAnimation 4s ease forwards;
     top: -180px;
     transform: rotate(90deg);
-    width:100%;
+    width: 100%;
     height: 25px;
     margin-left: 1.5em;
     padding-right: 1em;
-    
+
   }
 }
 
@@ -37,42 +40,44 @@
   img.nancy {
     // margin-left: 1.5em;
   }
+
   #star-pattern {
     top: -210px;
     transform: rotate(90deg);
-    width:100%;
+    width: 100%;
     height: 25px;
     // margin-left: 1.5em;
     margin-left: -0em
-    
   }
 }
+
 @media screen and (min-width: 1108px) {
   img.nancy {
     // margin-left: 1.5em;
   }
+
   #star-pattern {
     top: -260px;
     transform: rotate(90deg);
-    width:100%;
+    width: 100%;
     height: 25px;
     // margin-left: 1.5em;
     margin-left: -1em
-    
   }
 }
+
 @media screen and (min-width: 1139px) {
   img.nancy {
     // margin-left: 1.5em;
   }
+
   #star-pattern {
     top: -260px;
     transform: rotate(90deg);
-    width:100%;
+    width: 100%;
     height: 25px;
     // margin-left: 1.5em;
     margin-left: -2em
-    
   }
 }
 
@@ -2858,7 +2863,7 @@ div#container {
     }
 
     img {
-      
+
       // padding-top: 1em;
       width: 80%;
       height: auto;
@@ -4435,7 +4440,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 9em; 
+        margin-right: 9em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -4496,7 +4501,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 9em; 
+        margin-right: 9em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -4558,7 +4563,7 @@ div#container {
 
 
 @media screen and (min-width: 1051px) {
-  
+
   div#container {
 
     // width: 100vw;
@@ -4677,7 +4682,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 12em; 
+        margin-right: 12em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -4738,7 +4743,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 9em; 
+        margin-right: 9em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -4800,7 +4805,7 @@ div#container {
 }
 
 @media screen and (min-width: 1103px) {
-  
+
   div#container {
 
     // width: 100vw;
@@ -4919,7 +4924,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 12em; 
+        margin-right: 12em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -4980,7 +4985,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 12em; 
+        margin-right: 12em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -5042,7 +5047,7 @@ div#container {
 }
 
 @media screen and (min-width: 1236px) {
-  
+
   div#container {
 
     // width: 100vw;
@@ -5161,7 +5166,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 17em; 
+        margin-right: 17em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -5222,7 +5227,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 15em; 
+        margin-right: 15em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -5284,7 +5289,7 @@ div#container {
 }
 
 @media screen and (min-width: 1347px) {
-  
+
   div#container {
 
     // width: 100vw;
@@ -5403,7 +5408,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 17em; 
+        margin-right: 17em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -5464,7 +5469,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 15em; 
+        margin-right: 15em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -5526,7 +5531,7 @@ div#container {
 }
 
 @media screen and (min-width: 1400px) {
-  
+
   div#container {
 
     // width: 100vw;
@@ -5645,7 +5650,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 17em; 
+        margin-right: 17em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -5706,7 +5711,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 15em; 
+        margin-right: 15em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -5857,7 +5862,7 @@ div#container {
     }
 
     img {
-      
+
       // padding-top: 1em;
       width: 80%;
       height: auto;
@@ -5976,7 +5981,7 @@ div#container {
 
 
   }
-  
+
 }
 
 // END OF MOBILE MEDIA QUERY///////////
@@ -6238,7 +6243,7 @@ div#container {
 
 @media screen and (min-width: 532px) {
   div#container {
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
 
       // width: 100vw;
       // height: auto;
@@ -6258,7 +6263,7 @@ div#container {
       }
 
 
-      h1.uiux-h1{
+      h1.uiux-h1 {
         animation: fadeInAnimation 3s ease forwards;
         z-index: 6;
         // opacity: 100%;
@@ -6450,7 +6455,7 @@ div#container {
 
 @media screen and (min-width: 580px) {
   div#container {
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
 
       // width: 100vw;
       // height: auto;
@@ -6662,7 +6667,7 @@ div#container {
 
 @media screen and (min-width: 669px) {
   div#container {
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
 
       // width: 100vw;
       // height: auto;
@@ -6874,7 +6879,7 @@ div#container {
 
 @media screen and (min-width: 744px) {
   div#container {
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
 
       // width: 100vw;
       // height: auto;
@@ -7158,7 +7163,7 @@ div#container {
       }
 
 
-      h1.uiux-h1{
+      h1.uiux-h1 {
         animation: fadeInAnimation 3s ease forwards;
         z-index: 6;
         // opacity: 100%;
@@ -7190,7 +7195,7 @@ div#container {
 
 @media screen and (min-width: 960px) {
   div#container {
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
 
       // width: 100vw;
       // height: auto;
@@ -7408,7 +7413,7 @@ div#container {
 
     // width: 100vw;
     // height: 100%;
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
       // width: 100vw;
       // height: auto;
       // background-image: url("../images/green-bg.png");
@@ -7425,7 +7430,7 @@ div#container {
         z-index: 4;
       }
 
-      h1.uiux-h1{
+      h1.uiux-h1 {
         animation: fadeInAnimation 3s ease forwards;
         z-index: 6;
         // opacity: 100%;
@@ -7516,6 +7521,7 @@ div#container {
         padding: 2em 0em;
 
       }
+
       img.furge-imgs {
         // padding-top: 3em;
         width: 29%;
@@ -7539,7 +7545,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 9em; 
+        margin-right: 9em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -7600,7 +7606,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 9em; 
+        margin-right: 9em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -7670,12 +7676,12 @@ div#container {
 
 
 @media screen and (min-width: 1051px) {
-  
+
   div#container {
 
     // width: 100vw;
     // height: 100%;
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
       // width: 100vw;
       // height: auto;
       // background-image: url("../images/green-bg.png");
@@ -7789,7 +7795,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 12em; 
+        margin-right: 12em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -7850,7 +7856,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 9em; 
+        margin-right: 9em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -7912,12 +7918,12 @@ div#container {
 }
 
 @media screen and (min-width: 1103px) {
-  
+
   div#container {
 
     // width: 100vw;
     // height: 100%;
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
       // width: 100vw;
       // height: auto;
       // background-image: url("../images/green-bg.png");
@@ -8031,7 +8037,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 12em; 
+        margin-right: 12em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8092,7 +8098,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 12em; 
+        margin-right: 12em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8154,12 +8160,12 @@ div#container {
 }
 
 @media screen and (min-width: 1236px) {
-  
+
   div#container {
 
     // width: 100vw;
     // height: 100%;
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
       // width: 100vw;
       // height: auto;
       // background-image: url("../images/green-bg.png");
@@ -8273,7 +8279,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 17em; 
+        margin-right: 17em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8334,7 +8340,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 15em; 
+        margin-right: 15em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8396,12 +8402,12 @@ div#container {
 }
 
 @media screen and (min-width: 1347px) {
-  
+
   div#container {
 
     // width: 100vw;
     // height: 100%;
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
       // width: 100vw;
       // height: auto;
       // background-image: url("../images/green-bg.png");
@@ -8515,7 +8521,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 17em; 
+        margin-right: 17em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8576,7 +8582,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 15em; 
+        margin-right: 15em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8638,12 +8644,12 @@ div#container {
 }
 
 @media screen and (min-width: 1400px) {
-  
+
   div#container {
 
     // width: 100vw;
     // height: 100%;
-    div.ui-ux-intro  {
+    div.ui-ux-intro {
       // width: 100vw;
       // height: auto;
       // background-image: url("../images/green-bg.png");
@@ -8757,7 +8763,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 17em; 
+        margin-right: 17em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8818,7 +8824,7 @@ div#container {
         font-size: 3em;
         text-align: start;
         padding-left: 2em;
-        margin-right: 15em; 
+        margin-right: 15em;
         font-family: $Carmilla;
         font-weight: $Weight-200;
         color: $Blue1;
@@ -8882,5 +8888,90 @@ div#container {
 // END OF UI/UX PROJECTS //////////////////////////////////////////////////
 
 // START OF CONTACT PAGE
+div#container {
+
+
+  div.contact-intro {
+    img {
+      margin-top: 3em;
+      width: 100%;
+      height: 150vh;
+      background-size: cover;
+      // background-repeat: inherit;
+      // background-repeat: repeat;
+      // background-repeat: repeat-y;
+      // background-size: 100%;
+      z-index: 4;
+    }
+
+    h1.contact-h1 {
+      animation: fadeInAnimation 3s ease forwards;
+      z-index: 6;
+      margin-top: -943px;
+      font-family: "Carmilla";
+      text-align: center;
+      font-size: 2.5em;
+      font-weight: 200;
+      line-height: 1em;
+    }
+
+    p {
+      text-align: center;
+      animation: fadeInAnimation 4s ease forwards;
+      margin-top: 3em;
+      padding: 3em;
+      font-family: "Montserrat", sans-serif;
+      line-height: 1.5em;
+    }
+  }
+
+  div.form {
+    display: grid;
+    animation: fadeInAnimation 4s ease forwards;
+ 
+    div.box {
+      z-index: 7;
+      margin: auto;
+      border-radius: 1em;
+      // margin-top: -40%;
+      background-color: $White;
+      width: 80vw;
+      height: 85vh;
+      z-index: 8;
+      
+    }
+
+    form.form-group {
+      text-align: center;
+      // margin: auto;
+      width: 100vw;
+      display: grid;
+      margin-top: -534px;
+      z-index: 8;
+      font-family: $Montserrat;
+      // padding: 0 7em;
+      input {
+        font-family: $Montserrat;
+        width: 50%;
+        margin: auto;
+        padding: 0.5em;
+        border-radius: 1em;
+        border-width: 1px;
+      }
+
+      #message {
+        width: 50%;
+        font-family: $Montserrat;
+        margin: auto;
+        padding: 0.5em;
+        border-radius: 1em;
+        border-width: 1px;
+      }
+      
+    }
+  }
+}
+
+
 
 // END OF CONTACT PAGE//////////////////////////////////////////////////////

@@ -5790,4 +5790,66 @@ div#container div.venado-contracting-website img.venado-2 {
   div#container div.venado-contracting-website img.venado-2 {
     margin-bottom: 0em;
   }
+}
+div#container div.contact-intro img {
+  margin-top: 3em;
+  width: 100%;
+  height: 150vh;
+  background-size: cover;
+  z-index: 4;
+}
+div#container div.contact-intro h1.contact-h1 {
+  animation: fadeInAnimation 3s ease forwards;
+  z-index: 6;
+  margin-top: -943px;
+  font-family: "Carmilla";
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: 200;
+  line-height: 1em;
+}
+div#container div.contact-intro p {
+  text-align: center;
+  animation: fadeInAnimation 4s ease forwards;
+  margin-top: 3em;
+  padding: 3em;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5em;
+}
+div#container div.form {
+  display: grid;
+  animation: fadeInAnimation 4s ease forwards;
+}
+div#container div.form div.box {
+  z-index: 7;
+  margin: auto;
+  border-radius: 1em;
+  background-color: #FFFFFF;
+  width: 80vw;
+  height: 85vh;
+  z-index: 8;
+}
+div#container div.form form.form-group {
+  text-align: center;
+  width: 100vw;
+  display: grid;
+  margin-top: -534px;
+  z-index: 8;
+  font-family: "Montserrat", sans-serif;
+}
+div#container div.form form.form-group input {
+  font-family: "Montserrat", sans-serif;
+  width: 50%;
+  margin: auto;
+  padding: 0.5em;
+  border-radius: 1em;
+  border-width: 1px;
+}
+div#container div.form form.form-group #message {
+  width: 50%;
+  font-family: "Montserrat", sans-serif;
+  margin: auto;
+  padding: 0.5em;
+  border-radius: 1em;
+  border-width: 1px;
 }/*# sourceMappingURL=style.css.map */
