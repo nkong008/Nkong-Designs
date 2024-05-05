@@ -8895,7 +8895,7 @@ div#container {
     img {
       margin-top: 3em;
       width: 100%;
-      height: 150vh;
+      height: 180vh;
       background-size: cover;
       // background-repeat: inherit;
       // background-repeat: repeat;
@@ -8907,7 +8907,7 @@ div#container {
     h1.contact-h1 {
       animation: fadeInAnimation 3s ease forwards;
       z-index: 6;
-      margin-top: -943px;
+      margin-top: -1142px;
       font-family: "Carmilla";
       text-align: center;
       font-size: 2.5em;
@@ -8928,7 +8928,7 @@ div#container {
   div.form {
     display: grid;
     animation: fadeInAnimation 4s ease forwards;
- 
+
     div.box {
       z-index: 7;
       margin: auto;
@@ -8938,7 +8938,7 @@ div#container {
       width: 80vw;
       height: 85vh;
       z-index: 8;
-      
+
     }
 
     form.form-group {
@@ -8949,6 +8949,7 @@ div#container {
       margin-top: -534px;
       z-index: 8;
       font-family: $Montserrat;
+
       // padding: 0 7em;
       input {
         font-family: $Montserrat;
@@ -8967,10 +8968,465 @@ div#container {
         border-radius: 1em;
         border-width: 1px;
       }
-      
+
+      input.submit-button {
+        // margin-top: 1em;
+        // bottom: 1em;
+        width: 150px;
+        background: none;
+        color: $Black;
+        border: 1px solid $Black;
+        padding: 0.75em;
+        border-radius: 3em;
+        transition: all 200ms linear;
+        cursor: pointer;
+      }
+
+
+      input.submit-button:hover {
+        background-color: $Blue1;
+        color: $White;
+        border: 1px solid $Blue1;
+      }
+
+    }
+
+
+    img.email-icon {
+      margin: auto;
+      width: 50px;
+      height: 50px;
+      // top: 2em;
+      margin-top: 6.5em;
+
+    }
+
+    div.email-contact {
+      margin: auto;
+      padding: 2em;
+
+      a.contact-email {
+        color: $Black;
+        text-decoration: none;
+        font-family: $Montserrat;
+      }
+    }
+
+    div.contact-line {
+      margin: auto;
+      background-color: $Black;
+      height: 1px;
+      width: 150px;
     }
   }
 }
+
+@media screen and (min-width: 780px) {
+  div#container {
+    div.contact-intro {
+      img {
+        margin-top: 3em;
+        width: 100%;
+        height: 180vh;
+        background-size: cover;
+        // background-repeat: inherit;
+        // background-repeat: repeat;
+        // background-repeat: repeat-y;
+        // background-size: 100%;
+        z-index: 4;
+      }
+
+      h1.contact-h1 {
+        animation: fadeInAnimation 3s ease forwards;
+        z-index: 6;
+        margin-top: -1142px;
+        font-family: "Carmilla";
+        text-align: center;
+        font-size: 2.5em;
+        font-weight: 200;
+        line-height: 1em;
+      }
+
+      p {
+        text-align: center;
+        animation: fadeInAnimation 4s ease forwards;
+        margin-top: 3em;
+        padding: 3em 14em;
+        font-family: "Montserrat", sans-serif;
+        line-height: 1.5em;
+      }
+    }
+
+    div.form {
+      display: grid;
+      animation: fadeInAnimation 4s ease forwards;
+
+      div.box {
+        z-index: 7;
+        margin: auto;
+        border-radius: 1em;
+        // margin-top: -40%;
+        background-color: $White;
+        width: 80vw;
+        height: 85vh;
+        z-index: 8;
+
+      }
+
+      form.form-group {
+        text-align: center;
+        // margin: auto;
+        width: 100vw;
+        display: grid;
+        margin-top: -534px;
+        z-index: 8;
+        font-family: $Montserrat;
+
+        // padding: 0 7em;
+        input {
+          font-family: $Montserrat;
+          width: 40%;
+          margin: auto;
+          padding: 0.5em;
+          border-radius: 1em;
+          border-width: 1px;
+        }
+
+        #message {
+          width: 40%;
+          font-family: $Montserrat;
+          margin: auto;
+          padding: 0.5em;
+          border-radius: 1em;
+          border-width: 1px;
+        }
+
+        input.submit-button {
+          // margin-top: 1em;
+          // bottom: 1em;
+          width: 150px;
+          background: none;
+          color: $Black;
+          border: 1px solid $Black;
+          padding: 0.75em;
+          border-radius: 3em;
+          transition: all 200ms linear;
+          cursor: pointer;
+        }
+
+
+        input.submit-button:hover {
+          background-color: $Blue1;
+          color: $White;
+          border: 1px solid $Blue1;
+        }
+
+
+        img.email-icon {
+          margin: auto;
+          width: 50px;
+          height: 50px;
+          // top: 2em;
+          margin-top: 7.5em;
+
+        }
+
+        div.email-contact {
+          margin: auto;
+          padding: 2em;
+
+          a.contact-email {
+            color: $Black;
+            text-decoration: none;
+            font-family: $Montserrat;
+          }
+        }
+
+        div.contact-line {
+          margin: auto;
+          background-color: $Black;
+          height: 1px;
+          width: 150px;
+        }
+
+      }
+    }
+
+
+  }
+}
+
+
+@media screen and (min-width: 1021px) {
+  div#container {
+    div.contact-intro {
+      img {
+        margin-top: 3em;
+        width: 100%;
+        height: 180vh;
+        background-size: cover;
+        // background-repeat: inherit;
+        // background-repeat: repeat;
+        // background-repeat: repeat-y;
+        // background-size: 100%;
+        z-index: 4;
+      }
+
+      h1.contact-h1 {
+        animation: fadeInAnimation 3s ease forwards;
+        z-index: 6;
+        margin-top: -1142px;
+        font-family: "Carmilla";
+        text-align: center;
+        font-size: 5em;
+        font-weight: 200;
+        line-height: 1em;
+      }
+
+      p {
+        text-align: center;
+        animation: fadeInAnimation 4s ease forwards;
+        margin-top: 3em;
+        padding: 3em 14em;
+        font-family: "Montserrat", sans-serif;
+        line-height: 1.5em;
+      }
+    }
+
+    div.form {
+      display: grid;
+      animation: fadeInAnimation 4s ease forwards;
+
+      div.box {
+        z-index: 7;
+        margin: auto;
+        border-radius: 1em;
+        // margin-top: -40%;
+        background-color: $White;
+        width: 55vw;
+        height: 85vh;
+        z-index: 8;
+
+      }
+
+      form.form-group {
+        text-align: center;
+        // margin: auto;
+        width: 100vw;
+        display: grid;
+        margin-top: -534px;
+        z-index: 8;
+        font-family: $Montserrat;
+
+        // padding: 0 7em;
+        input {
+          font-family: $Montserrat;
+          width: 30%;
+          margin: auto;
+          padding: 0.5em;
+          border-radius: 1em;
+          border-width: 1px;
+        }
+
+        #message {
+          width: 30%;
+          font-family: $Montserrat;
+          margin: auto;
+          padding: 0.5em;
+          border-radius: 1em;
+          border-width: 1px;
+        }
+
+        input.submit-button {
+          // margin-top: 1em;
+          // bottom: 1em;
+          width: 150px;
+          background: none;
+          color: $Black;
+          border: 1px solid $Black;
+          padding: 0.75em;
+          border-radius: 3em;
+          transition: all 200ms linear;
+          cursor: pointer;
+        }
+
+
+        input.submit-button:hover {
+          background-color: $Blue1;
+          color: $White;
+          border: 1px solid $Blue1;
+        }
+
+      }
+
+
+        img.email-icon {
+          margin: auto;
+          width: 50px;
+          height: 50px;
+          // top: 2em;
+          margin-top: 7.5em;
+
+        }
+
+        div.email-contact {
+          margin: auto;
+          padding: 2em;
+
+          a.contact-email {
+            color: $Black;
+            text-decoration: none;
+            font-family: $Montserrat;
+          }
+        }
+
+        div.contact-line {
+          margin: auto;
+          background-color: $Black;
+          height: 1px;
+          width: 150px;
+        }
+    }
+
+
+  }
+}
+
+@media screen and (min-width: 1135px) {
+  div#container {
+    div.contact-intro {
+      img {
+        margin-top: 3em;
+        width: 100%;
+        height: 180vh;
+        background-size: cover;
+        // background-repeat: inherit;
+        // background-repeat: repeat;
+        // background-repeat: repeat-y;
+        // background-size: 100%;
+        z-index: 4;
+      }
+
+      h1.contact-h1 {
+        animation: fadeInAnimation 3s ease forwards;
+        z-index: 6;
+        margin-top: -1142px;
+        font-family: "Carmilla";
+        text-align: center;
+        font-size: 5em;
+        font-weight: 200;
+        line-height: 1em;
+      }
+
+      p {
+        text-align: center;
+        animation: fadeInAnimation 4s ease forwards;
+        margin-top: 3em;
+        padding: 3em 14em;
+        font-family: "Montserrat", sans-serif;
+        line-height: 1.5em;
+      }
+    }
+
+    div.form {
+      display: grid;
+      animation: fadeInAnimation 4s ease forwards;
+
+      div.box {
+        z-index: 7;
+        margin: auto;
+        border-radius: 1em;
+        // margin-top: -40%;
+        background-color: $White;
+        width: 55vw;
+        height: 85vh;
+        z-index: 8;
+
+      }
+
+      form.form-group {
+        text-align: center;
+        // margin: auto;
+        width: 100vw;
+        display: grid;
+        margin-top: -534px;
+        z-index: 8;
+        font-family: $Montserrat;
+
+        // padding: 0 7em;
+        input {
+          font-family: $Montserrat;
+          width: 30%;
+          margin: auto;
+          padding: 0.5em;
+          border-radius: 1em;
+          border-width: 1px;
+        }
+
+        #message {
+          width: 30%;
+          font-family: $Montserrat;
+          margin: auto;
+          padding: 0.5em;
+          border-radius: 1em;
+          border-width: 1px;
+        }
+
+        input.submit-button {
+          // margin-top: 1em;
+          // bottom: 1em;
+          width: 150px;
+          background: none;
+          color: $Black;
+          border: 1px solid $Black;
+          padding: 0.75em;
+          border-radius: 3em;
+          transition: all 200ms linear;
+          cursor: pointer;
+        }
+
+
+        input.submit-button:hover {
+          background-color: $Blue1;
+          color: $White;
+          border: 1px solid $Blue1;
+        }
+
+      }
+
+
+        img.email-icon {
+          margin: auto;
+          width: 50px;
+          height: 50px;
+          // top: 2em;
+          margin-top: 8.5em;
+
+        }
+
+        div.email-contact {
+          margin: auto;
+          padding: 2em;
+
+          a.contact-email {
+            color: $Black;
+            text-decoration: none;
+            font-family: $Montserrat;
+          }
+        }
+
+        div.contact-line {
+          margin: auto;
+          background-color: $Black;
+          height: 1px;
+          width: 150px;
+        }
+    }
+
+
+  }
+}
+
 
 
 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #749a94;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path id="Icon_material-email" data-name="Icon material-email" class="cls-1" d="M153.59,82.53h-52.84c-3.63,0-6.57,3.9-6.57,8.67l-.03,52.03c0,4.77,2.97,8.67,6.6,8.67h52.84c3.63,0,6.6-3.9,6.6-8.67v-52.03c0-4.77-2.97-8.67-6.6-8.67ZM153.59,99.87l-26.42,21.68-26.42-21.68v-8.67l26.42,21.68,26.42-21.68v8.67Z"/>
+</svg>
